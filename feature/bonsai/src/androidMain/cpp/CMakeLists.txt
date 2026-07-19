@@ -6,6 +6,11 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 
+add_compile_options(
+    "-ffile-prefix-map=${CMAKE_SOURCE_DIR}=."
+    "-ffile-prefix-map=${CMAKE_BINARY_DIR}=."
+)
+
 add_library(
     sdai_bonsai
     SHARED
