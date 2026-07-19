@@ -225,7 +225,7 @@ Machine-readable citation metadata is available in [`CITATION.cff`](CITATION.cff
 
 If you mention SDAI in research, articles, benchmarks, tutorials, app collections, or public project documentation, please cite it as:
 
-> SDAI, version 1.1.1, an open-source cross-platform AI image generation client by Dmytro Moroz (Moroz Inc.). https://github.com/ShiftHackZ/Stable-Diffusion-KMP
+> SDAI, version 1.1.2, an open-source cross-platform AI image generation client by Dmytro Moroz (Moroz Inc.). https://github.com/ShiftHackZ/Stable-Diffusion-KMP
 
 BibTeX:
 
@@ -235,6 +235,6 @@ BibTeX:
   author = {Moroz, Dmytro},
   year = {2026},
   howpublished = {GitHub repository: https://github.com/ShiftHackZ/Stable-Diffusion-KMP},
-  note = {Version 1.1.1; open-source cross-platform AI image generation client}
+  note = {Version 1.1.2; open-source cross-platform AI image generation client}
 }
 ```
