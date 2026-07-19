@@ -1,5 +1,6 @@
 # Stable Diffusion AI (SDAI)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21442838.svg)](https://doi.org/10.5281/zenodo.21442838)
 ![Google Play](https://img.shields.io/endpoint?color=blue&logo=google-play&logoColor=white&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dcom.shifthackz.aisdv1.app%26l%3DGoogle%2520Play%26m%3D%24version)
 ![F-Droid](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ff-droid.org%2Fapi%2Fv1%2Fpackages%2Fcom.shifthackz.aisdv1.app.foss&query=%24.packages%5B0%5D.versionName&label=F-Droid&link=https%3A%2F%2Ff-droid.org%2Fpackages%2Fcom.shifthackz.aisdv1.app.foss%2F)
 [![App Store](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fitunes.apple.com%2Flookup%3Fid%3D6778314183%26country%3Dus&query=%24.results%5B0%5D.version&label=App%20Store&logo=appstore&logoColor=white&color=blue)](https://apps.apple.com/us/app/sdai-ai-image-generator/id6778314183)
@@ -230,11 +231,19 @@ If you mention SDAI in research, articles, benchmarks, tutorials, app collection
 BibTeX:
 
 ```bibtex
-@misc{moroz_sdai_2026,
-  title = {{SDAI}},
+@software{Moroz_SDAI_2026,
   author = {Moroz, Dmytro},
-  year = {2026},
-  howpublished = {GitHub repository: https://github.com/ShiftHackZ/Stable-Diffusion-KMP},
-  note = {Version 1.1.2; open-source cross-platform AI image generation client}
+  license = {AGPL-3.0-only},
+  month = jul,
+  title = {{SDAI}},
+  url = {https://github.com/ShiftHackZ/Stable-Diffusion-KMP},
+  version = {1.1.2},
+  year = {2026}
 }
+```
+
+APA:
+
+```
+Moroz, D. (2026). SDAI (Version 1.1.2) [Computer software]. https://github.com/ShiftHackZ/Stable-Diffusion-KMP
 ```
