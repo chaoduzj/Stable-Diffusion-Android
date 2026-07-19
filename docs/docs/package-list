@@ -1,6 +1,21 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
 $dokka.location:com.shifthackz.aisdv1.data.mappers//toPngDataUri/kotlin.String#/PointingToDeclaration/data/com.shifthackz.aisdv1.data.mappers/[common]to-png-data-uri.html
+$dokka.location:com.shifthackz.aisdv1.feature.bonsai/BonsaiDiffusionImpl///PointingToDeclaration/feature/bonsai/com.shifthackz.aisdv1.feature.bonsai/[ios]-bonsai-diffusion-impl/index.html
+$dokka.location:com.shifthackz.aisdv1.feature.bonsai/BonsaiDiffusionImpl/BonsaiDiffusionImpl/#/PointingToDeclaration/feature/bonsai/com.shifthackz.aisdv1.feature.bonsai/[ios]-bonsai-diffusion-impl/-bonsai-diffusion-impl.html
+$dokka.location:com.shifthackz.aisdv1.feature.bonsai/BonsaiDiffusionImpl/interrupt/#/PointingToDeclaration/feature/bonsai/com.shifthackz.aisdv1.feature.bonsai/[ios]-bonsai-diffusion-impl/interrupt.html
+$dokka.location:com.shifthackz.aisdv1.feature.bonsai/BonsaiDiffusionImpl/mutex/#/PointingToDeclaration/feature/bonsai/com.shifthackz.aisdv1.feature.bonsai/[android]-bonsai-diffusion-impl/mutex.html
+$dokka.location:com.shifthackz.aisdv1.feature.bonsai/BonsaiDiffusionImpl/observeStatus/#/PointingToDeclaration/feature/bonsai/com.shifthackz.aisdv1.feature.bonsai/[ios]-bonsai-diffusion-impl/observe-status.html
+$dokka.location:com.shifthackz.aisdv1.feature.bonsai/BonsaiDiffusionImpl/process/#com.shifthackz.aisdv1.domain.entity.TextToImagePayload#kotlin.String/PointingToDeclaration/feature/bonsai/com.shifthackz.aisdv1.feature.bonsai/[ios]-bonsai-diffusion-impl/process.html
+$dokka.location:com.shifthackz.aisdv1.feature.bonsai/BonsaiDiffusionImpl/statusFlow/#/PointingToDeclaration/feature/bonsai/com.shifthackz.aisdv1.feature.bonsai/[ios]-bonsai-diffusion-impl/status-flow.html
+$dokka.location:com.shifthackz.aisdv1.feature.bonsai/BonsaiDiffusionImpl/withBackgroundThreadPriority/#kotlin.Function0[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/feature/bonsai/com.shifthackz.aisdv1.feature.bonsai/[android]-bonsai-diffusion-impl/with-background-thread-priority.html
+$dokka.location:com.shifthackz.aisdv1.feature.coreml/CoreMlDiffusionImpl///PointingToDeclaration/feature/coreml/com.shifthackz.aisdv1.feature.coreml/[ios]-core-ml-diffusion-impl/index.html
+$dokka.location:com.shifthackz.aisdv1.feature.coreml/CoreMlDiffusionImpl/CoreMlDiffusionImpl/#/PointingToDeclaration/feature/coreml/com.shifthackz.aisdv1.feature.coreml/[ios]-core-ml-diffusion-impl/-core-ml-diffusion-impl.html
+$dokka.location:com.shifthackz.aisdv1.feature.coreml/CoreMlDiffusionImpl/interrupt/#/PointingToDeclaration/feature/coreml/com.shifthackz.aisdv1.feature.coreml/[ios]-core-ml-diffusion-impl/interrupt.html
+$dokka.location:com.shifthackz.aisdv1.feature.coreml/CoreMlDiffusionImpl/observeStatus/#/PointingToDeclaration/feature/coreml/com.shifthackz.aisdv1.feature.coreml/[ios]-core-ml-diffusion-impl/observe-status.html
+$dokka.location:com.shifthackz.aisdv1.feature.coreml/CoreMlDiffusionImpl/process/#com.shifthackz.aisdv1.domain.entity.ImageToImagePayload#kotlin.String/PointingToDeclaration/feature/coreml/com.shifthackz.aisdv1.feature.coreml/[ios]-core-ml-diffusion-impl/process.html
+$dokka.location:com.shifthackz.aisdv1.feature.coreml/CoreMlDiffusionImpl/process/#com.shifthackz.aisdv1.domain.entity.TextToImagePayload#kotlin.String/PointingToDeclaration/feature/coreml/com.shifthackz.aisdv1.feature.coreml/[ios]-core-ml-diffusion-impl/process.html
+$dokka.location:com.shifthackz.aisdv1.feature.coreml/CoreMlDiffusionImpl/statusFlow/#/PointingToDeclaration/feature/coreml/com.shifthackz.aisdv1.feature.coreml/[ios]-core-ml-diffusion-impl/status-flow.html
 $dokka.location:com.shifthackz.aisdv1.feature.mediapipe/MediaPipeImpl///PointingToDeclaration/feature/mediapipe/com.shifthackz.aisdv1.feature.mediapipe/[android-playstore]-media-pipe-impl/index.html
 $dokka.location:com.shifthackz.aisdv1.feature.mediapipe/MediaPipeImpl/MediaPipeImpl/#/PointingToDeclaration/feature/mediapipe/com.shifthackz.aisdv1.feature.mediapipe/[android-foss]-media-pipe-impl/-media-pipe-impl.html
 $dokka.location:com.shifthackz.aisdv1.feature.mediapipe/MediaPipeImpl/MediaPipeImpl/#android.content.Context#com.shifthackz.aisdv1.domain.preference.PreferenceManager#com.shifthackz.aisdv1.core.common.file.FileProviderDescriptor/PointingToDeclaration/feature/mediapipe/com.shifthackz.aisdv1.feature.mediapipe/[android-playstore]-media-pipe-impl/-media-pipe-impl.html
@@ -13,8 +28,8 @@ $dokka.location:com.shifthackz.aisdv1.feature.mediapipe/MediaPipeImpl/preference
 $dokka.location:com.shifthackz.aisdv1.feature.mediapipe/MediaPipeImpl/process/#com.shifthackz.aisdv1.domain.entity.TextToImagePayload/PointingToDeclaration/feature/mediapipe/com.shifthackz.aisdv1.feature.mediapipe/[android-playstore]-media-pipe-impl/process.html
 $dokka.location:com.shifthackz.aisdv1.presentation.screen.benchmark//deviceName/com.shifthackz.aisdv1.feature.benchmark.BenchmarkDeviceInfo#/PointingToDeclaration/presentation/com.shifthackz.aisdv1.presentation.screen.benchmark/[common]device-name.html
 $dokka.location:com.shifthackz.aisdv1.presentation.screen.benchmark//displayName/com.shifthackz.aisdv1.domain.entity.SdxlBackend#/PointingToDeclaration/presentation/com.shifthackz.aisdv1.presentation.screen.benchmark/[common]display-name.html
-$dokka.location:com.shifthackz.aisdv1.presentation.screen.benchmark//displayName/com.shifthackz.aisdv1.domain.entity.ServerSource#/PointingToDeclaration/presentation/com.shifthackz.aisdv1.presentation.screen.benchmark/[common]display-name.html
 $dokka.location:com.shifthackz.aisdv1.presentation.screen.benchmark//localizedText/com.shifthackz.aisdv1.feature.benchmark.BenchmarkProviderIssue#/PointingToDeclaration/presentation/com.shifthackz.aisdv1.presentation.screen.benchmark/[common]localized-text.html
+$dokka.location:com.shifthackz.aisdv1.presentation.screen.benchmark//toPlatform/com.shifthackz.aisdv1.feature.benchmark.BenchmarkPlatform#/PointingToDeclaration/presentation/com.shifthackz.aisdv1.presentation.screen.benchmark/[common]to-platform.html
 $dokka.location:com.shifthackz.aisdv1.work/BackgroundTaskManagerImpl///PointingToDeclaration/feature/work/com.shifthackz.aisdv1.work/[ios]-background-task-manager-impl/index.html
 $dokka.location:com.shifthackz.aisdv1.work/BackgroundTaskManagerImpl/BackgroundTaskManagerImpl/#/PointingToDeclaration/feature/work/com.shifthackz.aisdv1.work/[android]-background-task-manager-impl/-background-task-manager-impl.html
 $dokka.location:com.shifthackz.aisdv1.work/BackgroundTaskManagerImpl/BackgroundTaskManagerImpl/#com.shifthackz.aisdv1.domain.feature.work.BackgroundWorkObserver#com.shifthackz.aisdv1.domain.usecase.generation.TextToImageUseCase#com.shifthackz.aisdv1.domain.usecase.generation.ImageToImageUseCase#com.shifthackz.aisdv1.domain.usecase.generation.InterruptGenerationUseCase#com.shifthackz.aisdv1.domain.usecase.generation.ObserveHordeProcessStatusUseCase#com.shifthackz.aisdv1.domain.usecase.generation.ObserveLocalDiffusionProcessStatusUseCase#com.shifthackz.aisdv1.domain.usecase.generation.ObserveCoreMlProcessStatusUseCase#com.shifthackz.aisdv1.domain.usecase.generation.ObserveBonsaiProcessStatusUseCase#com.shifthackz.aisdv1.domain.preference.PreferenceManager/PointingToDeclaration/feature/work/com.shifthackz.aisdv1.work/[ios]-background-task-manager-impl/-background-task-manager-impl.html
@@ -75,6 +90,7 @@ com.shifthackz.aisdv1.core.common.links
 com.shifthackz.aisdv1.core.common.log
 com.shifthackz.aisdv1.core.common.math
 com.shifthackz.aisdv1.core.common.model
+com.shifthackz.aisdv1.core.common.platform
 com.shifthackz.aisdv1.core.common.schedulers
 com.shifthackz.aisdv1.core.common.time
 module:core/imageprocessing
@@ -100,6 +116,7 @@ com.shifthackz.aisdv1.core.validation.dimension
 com.shifthackz.aisdv1.core.validation.path
 com.shifthackz.aisdv1.core.validation.url
 module:data
+com.shifthackz.aisdv1.data
 com.shifthackz.aisdv1.data.core
 com.shifthackz.aisdv1.data.di
 com.shifthackz.aisdv1.data.export
@@ -162,6 +179,12 @@ com.shifthackz.aisdv1.feature.auth.di
 module:feature/benchmark
 com.shifthackz.aisdv1.feature.benchmark
 com.shifthackz.aisdv1.feature.benchmark.di
+module:feature/bonsai
+com.shifthackz.aisdv1.feature.bonsai
+com.shifthackz.aisdv1.feature.bonsai.di
+module:feature/coreml
+com.shifthackz.aisdv1.feature.coreml
+com.shifthackz.aisdv1.feature.coreml.di
 module:feature/mediapipe
 com.shifthackz.aisdv1.feature.mediapipe
 com.shifthackz.aisdv1.feature.mediapipe.di
@@ -177,6 +200,10 @@ com.shifthackz.aisdv1.feature.onnx.di
 com.shifthackz.aisdv1.feature.onnx.entity
 com.shifthackz.aisdv1.feature.onnx.environment
 com.shifthackz.aisdv1.feature.onnx.extensions
+module:feature/sdxl
+com.shifthackz.aisdv1.feature.sdxl
+com.shifthackz.aisdv1.feature.sdxl.di
+com.shifthackz.aisdv1.feature.sdxl.runtime
 module:feature/work
 com.shifthackz.aisdv1.work
 com.shifthackz.aisdv1.work.core
