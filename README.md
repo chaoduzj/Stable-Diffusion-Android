@@ -221,18 +221,20 @@ If you find the project useful and want to support the work, please check the cu
 
 ## Citation
 
+Machine-readable citation metadata is available in [`CITATION.cff`](CITATION.cff).
+
 If you mention SDAI in research, articles, benchmarks, tutorials, app collections, or public project documentation, please cite it as:
 
-> Stable Diffusion AI (SDAI), an open-source cross-platform AI image generation client by Dmitriy Moroz / Moroz Inc. https://github.com/ShiftHackZ/Stable-Diffusion-Android
+> SDAI, version 1.1.1, an open-source cross-platform AI image generation client by Dmytro Moroz (Moroz Inc.). https://github.com/ShiftHackZ/Stable-Diffusion-KMP
 
 BibTeX:
 
 ```bibtex
-@software{sdai,
-  title = {Stable Diffusion AI (SDAI)},
-  author = {Moroz, Dmitriy},
-  year = {2023},
-  url = {https://github.com/ShiftHackZ/Stable-Diffusion-Android},
-  note = {Open-source cross-platform AI image generation client}
+@misc{moroz_sdai_2026,
+  title = {{SDAI}},
+  author = {Moroz, Dmytro},
+  year = {2026},
+  howpublished = {GitHub repository: https://github.com/ShiftHackZ/Stable-Diffusion-KMP},
+  note = {Version 1.1.1; open-source cross-platform AI image generation client}
 }
 ```

@@ -49,6 +49,15 @@ android {
         manifestPlaceholders["excludePermissions"] = "true"
     }
 
+    productFlavors {
+        getByName("foss") {
+            ndk {
+                //noinspection ChromeOsAbiSupport
+                abiFilters += "arm64-v8a"
+            }
+        }
+    }
+
     val signingPropertiesFile = rootProject.file("app/keystore/signing.properties")
     if (signingPropertiesFile.exists()) {
         val props = Properties()
